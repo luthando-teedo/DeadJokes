@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadJokesApp", "DadJokesApp\DadJokesApp.csproj", "{50E470AF-11D3-491E-869B-1AE67953140A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadJokesLibrary", "DadJokesLibrary\DadJokesLibrary.csproj", "{A33BFC46-A66E-410A-BE64-5D0AE422FDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E470AF-11D3-491E-869B-1AE67953140A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E470AF-11D3-491E-869B-1AE67953140A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E470AF-11D3-491E-869B-1AE67953140A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E470AF-11D3-491E-869B-1AE67953140A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33BFC46-A66E-410A-BE64-5D0AE422FDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33BFC46-A66E-410A-BE64-5D0AE422FDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33BFC46-A66E-410A-BE64-5D0AE422FDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33BFC46-A66E-410A-BE64-5D0AE422FDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67457AD-5114-43BA-B521-61FE7347C7A1}
+	EndGlobalSection
+EndGlobal
